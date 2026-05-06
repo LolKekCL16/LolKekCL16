@@ -1,2 +1,2 @@
 <div align="center"> 
-<img width="500" height="500" alt="15141239524007" src="https://github.com/user-attachments/assets/8660dab8-3816-47a5-b368-448c0a1f5a6b" />
+<img width="400" height="300" alt="lv_0_20260506164631" src="https://github.com/user-attachments/assets/473cea79-46b7-4f80-9c15-5288822d3a8f&quot; />
