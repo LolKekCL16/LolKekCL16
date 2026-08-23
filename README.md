@@ -5,7 +5,7 @@
 <div align="center">
 <a href="https://lolkekpa37.atabook.org/">
   <img src="https://i.pinimg.com/originals/37/0d/a0/370da0420bcd5815457d0452f0336139.png"
-       alt="Картинка"
+       alt="jopa"
        width="200"
        height="auto">
 </a>
