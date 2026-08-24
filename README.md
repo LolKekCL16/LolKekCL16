@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&duration=2000&pause=500&color=af2929&center=true&vCenter=true&width=435&lines=I+wanna+live;I+wanna+die;The+things+I+love;+I+wanna+FLYYYY;Yeah" alt="Typing text">
+</p>
 <div align="center">
 <img width="500" height="350" alt="tainted-azazel-the-binding-of-isaac" src="https://github.com/user-attachments/assets/0d6d9536-8de1-4aa5-ad3d-33a1c51ef4f6" />
 <div align="center">
